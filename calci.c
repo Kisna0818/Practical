@@ -10,5 +10,5 @@ int main()
         case 2: printf("\na*b = %d",a*b);break;
         case 3: printf("\na/b = %d",a/b);break;
     }
-    return 0;
+    return 0; // Let's run
 }
